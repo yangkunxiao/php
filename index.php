@@ -29,9 +29,9 @@
 
         $n++;
 
-        // echo 'x: '.$x.'<br/>';
+        echo 'x: '.$x.'<br/>';
 
-        // echo 'y: '.$y.'<br/>';
+        echo 'y: '.$y.'<br/>';
 
         echo $n.'<br />';
     };
@@ -42,7 +42,7 @@
 
     test();
 
-    // echo 'y:'.$y.'';
+    echo 'y:'.$y.'';
 
 
 ?>
